@@ -13,7 +13,7 @@ package com.venkat.bank.bankapplicatiion;
 public class Customer {
     
     public static void main(String ar[]){
-        
+        System.out.println("this is test lien");
         
         System.out.println("welcome to java");
     }
